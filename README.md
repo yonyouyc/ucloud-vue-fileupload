@@ -28,3 +28,4 @@ npm run build --report
 6.isDark 来自招投标的需求隐藏返回的文件名和下载下来的文件名
 
 请参考 https://github.com/yonyouyc/ucloud-ko-fileupload进行实现
+另外需要依赖webuploader请注意添加
